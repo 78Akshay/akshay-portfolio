@@ -1,56 +1,113 @@
-# Simple Developer Portfolio Template
+# Akshay Kumar | Software Developer Portfolio
 
-![Project Preview](portfolio_preview.jpg)
+Welcome to my personal portfolio repository!
 
-## Description
+I am **Akshay Kumar**, a B.Tech graduate in Electronics and Computer Engineering (2026), passionate about Software Development, Web Development, and building innovative technology solutions.
 
-This is a very simple, but elegant responsive portfolio template built using plain JavaScript, HTML, and CSS. It’s designed to be easily customizable, allowing any developer to quickly create a personal portfolio site. Below you'll find detailed information about the features and how to use this template.
+This portfolio showcases my technical skills, academic projects, education, and professional journey.
 
-## Table of Contents
+## 🌐 Live Portfolio
 
-- [Features](#features)
-- [Live Preview](#live-preview)
-- [Usage](#usage)
-- [Recent Updates](#recent-updates)
-- [License](#license)
+**Website:** https://78akshay.github.io/akshay-portfolio/
 
-## Features
+## 👨‍💻 About Me
 
-- Responsive Design
-- Single-page layout
-- Simple and customizable
-- PHP Mailer Integration
+- 🎓 B.Tech in Electronics and Computer Engineering — 2026
+- 💻 Aspiring Software Developer & Web Developer
+- 🌍 Based in New Delhi, India
+- 🏢 Completed IBM Virtual Internship in Web Development
+- 🚀 Quick learner, self-motivated, and passionate about technology
 
-## Live Preview
+## 🛠️ Technical Skills
 
-Check out the live preview of the Simple Developer Portfolio [here](https://hhlitval.github.io/simple-portfolio-template).
+**Programming Languages:** C, C++, Python, JavaScript, SQL
 
-## Usage
+**Web Technologies:** HTML5, CSS3, JavaScript, React.js, Node.js
 
-To use this template, follow these steps:
+**Tools & Platforms:** Git, GitHub, VS Code, XAMPP
 
-1. **Clone the Repository**: 
-    ```bash
-    git clone https://github.com/hhlitval/simple-portfolio-template.git
-    ```
-2. **Customization**:
-   - Update `index.html` with your information.
-   - Modify `style.css` for custom styles.
-3. **Email Integration**:
-   To enable email functionality:
-   - Upload the project to a PHP-enabled server.
-   - Configure the `mail.php` file with your email credentials.
-4. **Deployment**:
-   - Host the project on a server that supports PHP for email functionality.
-   - **If hosting on GitHub Pages, note that email handling will not work, since GitHub Pages is a static hosting service**.
+**Hardware & IoT:** Arduino, ESP32, Sensors, IoT Systems
 
-## Recent Updates
+## 🚀 Featured Projects
 
-- Refactored font sizes and styles for improved readability and balance.
-- Reworked animations for smoother transitions and a modern look.
-- Removed the preloader for a faster, simplified user experience.
-- Added [PHP Mailer](https://github.com/PHPMailer/PHPMailer) integration for email handling (requires a PHP-enabled server, not supported on GitHub Pages).
+### 1. GIS-Based Digital Finance Platform
+A digital finance platform project incorporating GIS-based features to support location-aware financial services.
 
-## License
+### 2. Smart Automatic Irrigation System
+An IoT-based irrigation system designed to automate water supply using sensor-based monitoring.
 
-This project is licensed under the MIT License.
+### 3. Arduino Password Door Lock
+A password-protected security system developed using Arduino to control door access.
+
+### 4. Smart Energy Meter
+An energy monitoring project designed to measure and track electricity consumption.
+
+## ✨ Portfolio Features
+
+- Responsive design for desktop and mobile devices
+- About Me, Skills, Education, and Projects sections
+- Downloadable resume
+- Interactive animations
+- Social media integration
+- Working contact form using EmailJS
+- Hosted on GitHub Pages
+
+## 🧰 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- EmailJS
+- AOS Animation Library
+- Git & GitHub
+- GitHub Pages
+
+## 📂 Project Structure
+
+```text
+akshay-portfolio/
+├── index.html
+├── css/
+│   ├── main.css
+│   ├── media.css
+│   └── reset.css
+├── js/
+│   ├── main.js
+│   ├── form.js
+│   └── skillbar.js
+├── img/
+├── resume/
+│   └── Akshay_Kumar_Resume.pdf
+└── README.md
+```
+
+## 💻 Run Locally
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/78Akshay/akshay-portfolio.git
+```
+
+2. Open the project folder in VS Code.
+3. Open `index.html` using the Live Server extension.
+
+## 📬 Connect With Me
+
+**GitHub:** https://github.com/78Akshay
+
+**LinkedIn:** https://www.linkedin.com/in/akshay-kumar-60920a408/
+
+**Portfolio:** https://78akshay.github.io/akshay-portfolio/
+
+**Instagram:** https://www.instagram.com/_akshay_kum_ar00/
+
+## 🙏 Acknowledgements
+
+This portfolio was customized from the Simple Developer Portfolio Template. Thanks to the original template creator for the starting design.
+
+---
+
+⭐ If you like my portfolio, feel free to explore the repository!
+
+**© 2026 Akshay Kumar**
