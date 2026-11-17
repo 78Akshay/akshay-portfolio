@@ -1,5 +1,16 @@
 # Akshay Kumar | Software Developer Portfolio
 
+## Portfolio Preview
+
+### Desktop View
+![Akshay Kumar Desktop Portfolio](img/portfolio_screenshot.png/portfolio_screenshot.png)
+
+### Mobile View
+![Akshay Kumar Mobile Portfolio](img/portfolio_screenshot.png/portfolio_screenshot1.png)
+
+### About Me Section
+![Akshay Kumar About Section](img/portfolio_screenshot.png/portfolio_screenshot2.png)
+
 Welcome to my personal portfolio repository!
 
 I am **Akshay Kumar**, a B.Tech graduate in Electronics and Computer Engineering (2026), passionate about Software Development, Web Development, and building innovative technology solutions.
